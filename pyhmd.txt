@@ -1,0 +1,6 @@
+800
+["HMD_Center.jpg", "HMD_Doh..jpg", "HMD_Kolonia.jpg", "HMD_Gortva.jpg"]
+canvas.create_text(900, 770, text="Hajnáčka Centrum - Hajnáčka Sasbik  - 35 minút\nHajnáčka Centrum - Hajnáčka Gortva – 10 minút\nHajnáčka Centrum - Hajnáčka Gortva do Zaboda - 5 minút",font="Italic 20 bold")
+
+
+pistikeeeeeeEEEEEEEEEEEEEsdddddddsdsds
